@@ -1,4 +1,6 @@
 inspecode: 
+  setup:
+    - ./setup.sh
   global:
     timeout: 3h
   tools:
